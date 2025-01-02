@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Hicham Abderrahim </h1>
-<h4 align="">A passionate developer & lifelong learner 👨‍💻 from Algeria :algeria: </h4>
+<h4 align="">A developer & lifelong learner 👨‍💻 from Algeria :algeria: </h4>
 <h4 align="">🛠️ Love crafting & sharing cool GitHub projects  </h4>
 <h4 align="">🚀 Always up for exploring new tech   </h4>
 <h4 align="">👥 Let's team up on exciting stuff!  </h4>
